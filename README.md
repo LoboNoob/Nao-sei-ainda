@@ -20,3 +20,7 @@ app.listen(3000,() => {
 })
 
 //get - buscar // post - criar // put - atualizar // delete - remover//
+
+
+#slides:
+https://github.com/MatheusRph/js-classroom/blob/main/01/01.md
